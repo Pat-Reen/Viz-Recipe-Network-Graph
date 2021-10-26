@@ -1,7 +1,7 @@
 # Viz-Recipe-Network-Graph
 This repository provides an example of a network graph in Tableau using Gephi to spread the points in the graph.
 
-Link here:
+Link here: https://pat-reen.github.io/Viz-Recipe-Network-Graph/
 
 ## Tableau public
 
