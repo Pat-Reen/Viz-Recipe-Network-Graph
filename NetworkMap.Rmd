@@ -49,6 +49,8 @@ The inspiration for this approach to network charts came from [this example](htt
 
 See link above to GitHub repository which has data and tableau workbook for this recipe.
 
+Final Tableau viz is [here](https://public.tableau.com/views/Nirvana_16351886101480/Nirvana?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link).
+
 # What is a network chart
 A visual representation of a network. It comprises nodes (points in the graph) and edges (lines joining the points).
 
